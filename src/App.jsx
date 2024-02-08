@@ -16,8 +16,8 @@ const App = ()=>{
           {/* <NavbarComp/> */}
           
          {/* <Birthday/> */}
-    <FormReact/>
-          {/* <ApiCallComp/> */}
+    {/* <FormReact/> */}
+          <ApiCallComp/>
           {/* <Grocery/> */}
 
         
