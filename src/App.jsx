@@ -11,11 +11,12 @@ import CardComp from "./Component/Common/CardComp";
 const App = ()=>{
     return(
         <div>
-          {/* <NavbarComp/> */}
-          <CardComp/>
+          {/* <CardComp/> */}
 
+          {/* <NavbarComp/> */}
+          
          {/* <Birthday/> */}
-    {/* <FormReact/> */}
+    <FormReact/>
           {/* <ApiCallComp/> */}
           {/* <Grocery/> */}
 
