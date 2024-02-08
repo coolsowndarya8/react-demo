@@ -28,9 +28,7 @@ function FormReact() {
     return (
         <div>
             <h1>Register Form</h1>
-            {
-                count++
-            }
+            
             {!pro ?
                 <form>
                     <label>Name</label>
